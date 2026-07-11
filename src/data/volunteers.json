@@ -1,0 +1,271 @@
+[
+  {
+    "id": "easwari",
+    "name": "Easwari",
+    "role": "Lobby Table 1 Lead",
+    "team": "Lobby",
+    "report": "July 16 \u2022 6:05 PM",
+    "location": "Front Lobby",
+    "members": [
+      "Sami",
+      "Laya",
+      "Akshara"
+    ],
+    "mission": "Set up and maintain the Pillayar welcome table.",
+    "tasks": [
+      "Yellow-gold table cloth",
+      "Pillayar idol",
+      "Malli flowers",
+      "Mirror stand",
+      "Sign board",
+      "Brochures",
+      "Rose water",
+      "Kumkum"
+    ],
+    "next": [
+      "July 18, 11:00 AM \u2013 align d\u00e9cor",
+      "Add fresh flowers",
+      "Support cleanup at 7:00 PM"
+    ]
+  },
+  {
+    "id": "amutha",
+    "name": "Amutha",
+    "role": "Lobby Table 2 Lead",
+    "team": "Lobby",
+    "report": "July 16 \u2022 6:05 PM",
+    "location": "Front Lobby",
+    "members": [
+      "Lavanya"
+    ],
+    "mission": "Set up and maintain the Natarajar display.",
+    "tasks": [
+      "Royal-blue table cloth",
+      "Natarajar idol",
+      "Kolam signs",
+      "Flowers",
+      "Kolam backdrop"
+    ],
+    "next": [
+      "July 18 \u2013 align d\u00e9cor",
+      "Add fresh flowers",
+      "Verify before seating"
+    ]
+  },
+  {
+    "id": "uma",
+    "name": "Uma",
+    "role": "Lobby Table 3 Lead",
+    "team": "Lobby",
+    "report": "July 16 \u2022 6:05 PM",
+    "location": "Front Lobby",
+    "members": [],
+    "mission": "Arrange Abi\u2019s dancer-themed artwork and display.",
+    "tasks": [
+      "Abi artwork",
+      "Dancer display items",
+      "Labels and stands",
+      "Final visual check"
+    ],
+    "next": [
+      "Align display July 18",
+      "Pack items during cleanup"
+    ]
+  },
+  {
+    "id": "hemanth",
+    "name": "Hemanth",
+    "role": "Lobby Table 4 & Music Lead",
+    "team": "Lobby / Dinner",
+    "report": "July 16 \u2022 6:05 PM",
+    "location": "Lobby / Dinner Hall",
+    "members": [],
+    "mission": "Set up Murugan display and manage dinner-hall music and photos.",
+    "tasks": [
+      "Murugan display",
+      "6:30 PM Bluetooth Nadaswaram",
+      "7:30\u20138:15 PM family photos"
+    ],
+    "next": [
+      "Verify d\u00e9cor",
+      "Prepare selected music",
+      "Coordinate photo sequence"
+    ]
+  },
+  {
+    "id": "stage",
+    "name": "Shreya, Sasi & Lakshmi",
+    "role": "Stage Front Decoration",
+    "team": "Stage",
+    "report": "July 16 \u2022 6:05 PM",
+    "location": "Stage Front",
+    "members": [],
+    "mission": "Complete stage-front decoration safely and neatly.",
+    "tasks": [
+      "Place d\u00e9cor",
+      "Secure items",
+      "Keep pathways clear",
+      "Final alignment"
+    ],
+    "next": [
+      "Inspect July 18",
+      "Sasi: altar garland",
+      "Sasi & Lakshmi: 6:55 PM green room cleanup"
+    ]
+  },
+  {
+    "id": "kannan",
+    "name": "Kannan",
+    "role": "Easels & Photos Lead",
+    "team": "Lobby",
+    "report": "July 16 \u2022 6:05 PM",
+    "location": "Lobby",
+    "members": [],
+    "mission": "Arrange easels, photo displays, and welcome board.",
+    "tasks": [
+      "Set up four easels",
+      "Place photos",
+      "Position welcome board",
+      "Confirm stability"
+    ],
+    "next": [
+      "Check alignment July 18",
+      "Add flowers",
+      "Pack easels during cleanup"
+    ]
+  },
+  {
+    "id": "muthu",
+    "name": "Muthu",
+    "role": "Coordinator & Signage",
+    "team": "Coordination",
+    "report": "July 16 \u2022 before 6:05 PM",
+    "location": "Venue-wide",
+    "members": [],
+    "mission": "Coordinate teams, QR signs, and task completion.",
+    "tasks": [
+      "Print QR signs",
+      "Place signs",
+      "Track status",
+      "Handle handoffs",
+      "Final walkthrough"
+    ],
+    "next": [
+      "Monitor July 18 timeline",
+      "Confirm pooja video",
+      "Track cleanup"
+    ]
+  },
+  {
+    "id": "veera",
+    "name": "Veera",
+    "role": "Food & Hospitality Lead",
+    "team": "Hospitality",
+    "report": "July 16 rehearsal dinner",
+    "location": "Lobby / Cafeteria",
+    "members": [
+      "Arasan",
+      "Mani",
+      "Hospitality Team"
+    ],
+    "mission": "Coordinate rehearsal dinner, lunch, snacks, and dinner.",
+    "tasks": [
+      "Dinner for 60",
+      "12:00 PM lunch",
+      "1:35 PM tea/coffee",
+      "4:00 PM snacks",
+      "5:00 PM dinner setup",
+      "7:05\u20137:30 PM family dinner"
+    ],
+    "next": [
+      "Verify food counts",
+      "Coordinate serving",
+      "Confirm cleanup handoff"
+    ]
+  },
+  {
+    "id": "uhaul",
+    "name": "Theetha & Mani",
+    "role": "U-Haul & Logistics",
+    "team": "Transport",
+    "report": "July 16 \u2022 afternoon",
+    "location": "Home / Venue",
+    "members": [
+      "Arasan"
+    ],
+    "mission": "Rent, load, transport, and reload props and d\u00e9cor.",
+    "tasks": [
+      "Rent U-Haul",
+      "3:30 PM load props",
+      "Transport safely",
+      "7:00 PM lobby teardown/load",
+      "Final vehicle check"
+    ],
+    "next": [
+      "Confirm keys and route",
+      "Keep packing order organized",
+      "Track returned items"
+    ]
+  },
+  {
+    "id": "flowers",
+    "name": "All Ladies",
+    "role": "Fresh Flower Rangoli",
+    "team": "Flowers",
+    "report": "July 18 \u2022 11:00 AM",
+    "location": "Lobby / Entrance",
+    "members": [],
+    "mission": "Create rangoli and refresh floral d\u00e9cor.",
+    "tasks": [
+      "Fresh flower rangoli",
+      "Add lobby flowers",
+      "Support altar flowers",
+      "Freshness check"
+    ],
+    "next": [
+      "Finish before seating",
+      "Keep spare flowers ready"
+    ]
+  },
+  {
+    "id": "chitra",
+    "name": "Chitra",
+    "role": "Abi Break Snack",
+    "team": "Performer Care",
+    "report": "July 18 \u2022 4:05 PM",
+    "location": "Green Room",
+    "members": [],
+    "mission": "Provide Abi\u2019s light snack during break.",
+    "tasks": [
+      "Prepare snack",
+      "Water ready",
+      "Deliver at 4:05 PM",
+      "Remove items"
+    ],
+    "next": [
+      "Check with Abi before program",
+      "Keep snack quick and simple"
+    ]
+  },
+  {
+    "id": "cleanup",
+    "name": "All Available Gents",
+    "role": "Dinner Verification & Cleanup",
+    "team": "Cleanup",
+    "report": "July 18 \u2022 6:55 PM",
+    "location": "Dinner Hall",
+    "members": [],
+    "mission": "Verify dinner readiness and finish cleanup.",
+    "tasks": [
+      "Check buffet",
+      "Check tables and water",
+      "Support photo booth",
+      "8:15\u20138:50 PM cleanup",
+      "Final inspection"
+    ],
+    "next": [
+      "9:00 PM final walkthrough",
+      "Confirm nothing left behind"
+    ]
+  }
+]
